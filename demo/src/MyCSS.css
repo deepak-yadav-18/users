@@ -1,0 +1,43 @@
+.h1{
+    color: grey;
+    text-align: center;
+    border:2px solid grey;
+}
+.box{
+    border: 10px solid green;
+    width: fit-content;
+    height: fit-content;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+.box button{
+    padding: 10px;
+    cursor: pointer;
+}
+
+.img{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+.btn{
+    padding: 15px;
+    font-size: 20px;
+}
+.form{
+    border: 4px double brown;
+    padding: 20px;
+    font-size: 20px;
+    width: fit-content;
+    margin: 20px auto ;
+}
+.form input{
+    padding: 20px;
+    font-size: 20px;
+}
