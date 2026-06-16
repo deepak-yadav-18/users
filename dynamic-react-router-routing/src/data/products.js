@@ -143,4 +143,13 @@ const products = [
   }
 ];
 
+
+// products.forEach((product,index)=>{
+//   console.log(product.id)
+//   console.log(product.image)
+//   console.log(product.price)
+//   console.log(product.shortDescription)
+// })
+// console.log(typeof(String(101)))
+// console.log(typeof(Number("101")))
 export default products;
